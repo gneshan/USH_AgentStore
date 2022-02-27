@@ -1,0 +1,66 @@
+2022-02-23 16:46:05,677 - USH_AgentStore -INFO - Setting up the InternetExplorer driver
+2022-02-23 16:46:12,026 - USH_AgentStore -INFO - Entering the URL
+2022-02-23 16:48:10,575 - USH_AgentStore -INFO - Setting up the Chrome driver
+2022-02-23 16:48:19,408 - USH_AgentStore -INFO - Entering the URL
+2022-02-23 16:48:20,750 - USH_AgentStore -INFO - Quitting the browser
+2022-02-23 17:10:44,648 - USH_AgentStore -INFO - Setting up the Chrome driver
+2022-02-23 17:10:59,983 - USH_AgentStore -INFO - Entering the URL
+2022-02-23 17:11:00,938 - USH_AgentStore -INFO - Quitting the browser
+2022-02-23 17:17:23,363 - USH_AgentStore -INFO - Setting up the Chrome driver
+2022-02-23 17:17:37,656 - USH_AgentStore -INFO - Entering the URL
+2022-02-23 17:17:41,948 - USH_AgentStore -INFO - Window is maximized
+2022-02-23 17:17:42,245 - USH_AgentStore -INFO - Getting the Window Handle of Login Screen
+2022-02-23 17:17:42,318 - USH_AgentStore -INFO - Login Window handle is CDwindow-4E3ED5EEB5F7053BC3625E74C46F6885
+2022-02-23 17:17:42,389 - USH_AgentStore -INFO - Explicit Waiting based on the visibility of webelement....
+2022-02-23 17:18:05,635 - USH_AgentStore -INFO - Quitting the browser
+2022-02-24 10:16:52,828 - USH_AgentStore -INFO - Setting up the Chrome driver
+2022-02-24 10:17:01,741 - USH_AgentStore -INFO - Entering the URL
+2022-02-24 10:17:05,921 - USH_AgentStore -INFO - Window is maximized
+2022-02-24 10:17:06,240 - USH_AgentStore -INFO - Getting the Window Handle of Login Screen
+2022-02-24 10:17:06,321 - USH_AgentStore -INFO - Login Window handle is CDwindow-087A96460E82DCE5AE97FDB1E7AC0312
+2022-02-24 10:17:06,363 - USH_AgentStore -INFO - Explicit Waiting based on the visibility of webelement....
+2022-02-24 10:17:37,080 - USH_AgentStore -INFO - Quitting the browser
+2022-02-24 10:35:41,025 - USH_AgentStore -INFO - Setting up the Chrome driver
+2022-02-24 10:35:41,048 - USH_AgentStore -INFO - Defining capabilities...
+2022-02-24 10:35:49,281 - USH_AgentStore -INFO - Entering the URL
+2022-02-24 10:35:50,070 - USH_AgentStore -INFO - Window is maximized
+2022-02-24 10:35:50,620 - USH_AgentStore -INFO - Getting the Window Handle of Login Screen
+2022-02-24 10:35:50,832 - USH_AgentStore -INFO - Login Window handle is CDwindow-95D366C9421689DF1BCB1DD82614AD2B
+2022-02-24 10:35:50,892 - USH_AgentStore -INFO - Explicit Waiting based on the visibility of webelement....
+2022-02-24 10:36:21,843 - USH_AgentStore -INFO - Quitting the browser
+2022-02-25 17:36:26,636 - USH_AgentStore -INFO - Setting up the Chrome driver
+2022-02-25 17:36:31,068 - USH_AgentStore -INFO - Entering the URL
+2022-02-25 17:36:33,791 - USH_AgentStore -INFO - Window is maximized
+2022-02-25 17:36:33,939 - USH_AgentStore -INFO - Getting the Window Handle of Login Screen
+2022-02-25 17:36:33,950 - USH_AgentStore -INFO - Login Window handle is CDwindow-53F2191C801E241734B0E6235E94E7BD
+2022-02-25 17:36:34,010 - USH_AgentStore -INFO - Explicit Waiting based on the visibility of webelement....
+2022-02-25 17:36:34,105 - USH_AgentStore -INFO - Entering username..
+2022-02-25 17:36:34,282 - USH_AgentStore -INFO - Clicking on Login button
+2022-02-25 17:36:34,372 - USH_AgentStore -INFO - Quitting the browser
+2022-02-27 09:34:41,483 - USH_AgentStore -INFO - Setting up the Chrome driver
+2022-02-27 09:34:46,367 - USH_AgentStore -INFO - Entering the URL
+2022-02-27 09:34:47,917 - USH_AgentStore -INFO - Window is maximized
+2022-02-27 09:34:48,086 - USH_AgentStore -INFO - Getting the Window Handle of Login Screen
+2022-02-27 09:34:48,098 - USH_AgentStore -INFO - Login Window handle is CDwindow-10A2089F76FB6D5F9825D01B81FE78B8
+2022-02-27 09:34:48,146 - USH_AgentStore -INFO - Explicit Waiting based on the visibility of webelement....
+2022-02-27 09:34:48,261 - USH_AgentStore -INFO - Entering username..
+2022-02-27 09:34:48,385 - USH_AgentStore -INFO - Clicking on Login button
+2022-02-27 09:34:48,462 - USH_AgentStore -INFO - Quitting the browser
+2022-02-27 09:43:13,585 - USH_AgentStore -INFO - Setting up the Chrome driver
+2022-02-27 09:43:15,560 - USH_AgentStore -INFO - Entering the URL
+2022-02-27 09:43:17,263 - USH_AgentStore -INFO - Window is maximized
+2022-02-27 09:43:17,411 - USH_AgentStore -INFO - Getting the Window Handle of Login Screen
+2022-02-27 09:43:17,426 - USH_AgentStore -INFO - Login Window handle is CDwindow-6E55F81D60FE48C358DEBBFAEDE66629
+2022-02-27 09:43:17,507 - USH_AgentStore -INFO - Explicit Waiting based on the visibility of webelement....
+2022-02-27 09:43:17,594 - USH_AgentStore -INFO - Entering username..
+2022-02-27 09:43:17,724 - USH_AgentStore -INFO - Clicking on Login button
+2022-02-27 09:43:17,811 - USH_AgentStore -INFO - Quitting the browser
+2022-02-27 09:57:33,443 - USH_AgentStore -INFO - Setting up the Chrome driver
+2022-02-27 09:57:35,514 - USH_AgentStore -INFO - Entering the URL
+2022-02-27 09:57:37,167 - USH_AgentStore -INFO - Window is maximized
+2022-02-27 09:57:37,313 - USH_AgentStore -INFO - Getting the Window Handle of Login Screen
+2022-02-27 09:57:37,324 - USH_AgentStore -INFO - Login Window handle is CDwindow-8ED56D26893556087814DA857968C22D
+2022-02-27 09:57:37,365 - USH_AgentStore -INFO - Explicit Waiting based on the visibility of webelement....
+2022-02-27 09:57:37,472 - USH_AgentStore -INFO - Entering username..
+2022-02-27 09:57:37,644 - USH_AgentStore -INFO - Clicking on Login button
+2022-02-27 09:57:37,744 - USH_AgentStore -INFO - Quitting the browser

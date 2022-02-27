@@ -1,0 +1,66 @@
+2022-02-23 16:46:05,677 [TestNG-test=Test-1] INFO USH_AgentStore - Setting up the InternetExplorer driver
+2022-02-23 16:46:12,026 [TestNG-test=Test-1] INFO USH_AgentStore - Entering the URL
+2022-02-23 16:48:10,575 [TestNG-test=Test-1] INFO USH_AgentStore - Setting up the Chrome driver
+2022-02-23 16:48:19,408 [TestNG-test=Test-1] INFO USH_AgentStore - Entering the URL
+2022-02-23 16:48:20,750 [main] INFO USH_AgentStore - Quitting the browser
+2022-02-23 17:10:44,648 [TestNG-test=Test-1] INFO USH_AgentStore - Setting up the Chrome driver
+2022-02-23 17:10:59,983 [TestNG-test=Test-1] INFO USH_AgentStore - Entering the URL
+2022-02-23 17:11:00,938 [main] INFO USH_AgentStore - Quitting the browser
+2022-02-23 17:17:23,363 [TestNG-test=Test-1] INFO USH_AgentStore - Setting up the Chrome driver
+2022-02-23 17:17:37,656 [TestNG-test=Test-1] INFO USH_AgentStore - Entering the URL
+2022-02-23 17:17:41,948 [TestNG-test=Test-1] INFO USH_AgentStore - Window is maximized
+2022-02-23 17:17:42,245 [TestNG-test=Test-1] INFO USH_AgentStore - Getting the Window Handle of Login Screen
+2022-02-23 17:17:42,318 [TestNG-test=Test-1] INFO USH_AgentStore - Login Window handle is CDwindow-4E3ED5EEB5F7053BC3625E74C46F6885
+2022-02-23 17:17:42,389 [TestNG-test=Test-1] INFO USH_AgentStore - Explicit Waiting based on the visibility of webelement....
+2022-02-23 17:18:05,635 [main] INFO USH_AgentStore - Quitting the browser
+2022-02-24 10:16:52,828 [TestNG-test=Test-1] INFO USH_AgentStore - Setting up the Chrome driver
+2022-02-24 10:17:01,741 [TestNG-test=Test-1] INFO USH_AgentStore - Entering the URL
+2022-02-24 10:17:05,921 [TestNG-test=Test-1] INFO USH_AgentStore - Window is maximized
+2022-02-24 10:17:06,240 [TestNG-test=Test-1] INFO USH_AgentStore - Getting the Window Handle of Login Screen
+2022-02-24 10:17:06,321 [TestNG-test=Test-1] INFO USH_AgentStore - Login Window handle is CDwindow-087A96460E82DCE5AE97FDB1E7AC0312
+2022-02-24 10:17:06,363 [TestNG-test=Test-1] INFO USH_AgentStore - Explicit Waiting based on the visibility of webelement....
+2022-02-24 10:17:37,080 [main] INFO USH_AgentStore - Quitting the browser
+2022-02-24 10:35:41,025 [TestNG-test=Test-1] INFO USH_AgentStore - Setting up the Chrome driver
+2022-02-24 10:35:41,048 [TestNG-test=Test-1] INFO USH_AgentStore - Defining capabilities...
+2022-02-24 10:35:49,281 [TestNG-test=Test-1] INFO USH_AgentStore - Entering the URL
+2022-02-24 10:35:50,070 [TestNG-test=Test-1] INFO USH_AgentStore - Window is maximized
+2022-02-24 10:35:50,620 [TestNG-test=Test-1] INFO USH_AgentStore - Getting the Window Handle of Login Screen
+2022-02-24 10:35:50,832 [TestNG-test=Test-1] INFO USH_AgentStore - Login Window handle is CDwindow-95D366C9421689DF1BCB1DD82614AD2B
+2022-02-24 10:35:50,892 [TestNG-test=Test-1] INFO USH_AgentStore - Explicit Waiting based on the visibility of webelement....
+2022-02-24 10:36:21,843 [main] INFO USH_AgentStore - Quitting the browser
+2022-02-25 17:36:26,636 [TestNG-test=Test-1] INFO USH_AgentStore - Setting up the Chrome driver
+2022-02-25 17:36:31,068 [TestNG-test=Test-1] INFO USH_AgentStore - Entering the URL
+2022-02-25 17:36:33,791 [TestNG-test=Test-1] INFO USH_AgentStore - Window is maximized
+2022-02-25 17:36:33,939 [TestNG-test=Test-1] INFO USH_AgentStore - Getting the Window Handle of Login Screen
+2022-02-25 17:36:33,950 [TestNG-test=Test-1] INFO USH_AgentStore - Login Window handle is CDwindow-53F2191C801E241734B0E6235E94E7BD
+2022-02-25 17:36:34,010 [TestNG-test=Test-1] INFO USH_AgentStore - Explicit Waiting based on the visibility of webelement....
+2022-02-25 17:36:34,105 [TestNG-test=Test-1] INFO USH_AgentStore - Entering username..
+2022-02-25 17:36:34,282 [TestNG-test=Test-1] INFO USH_AgentStore - Clicking on Login button
+2022-02-25 17:36:34,372 [main] INFO USH_AgentStore - Quitting the browser
+2022-02-27 09:34:41,483 [TestNG-test=Test-1] INFO USH_AgentStore - Setting up the Chrome driver
+2022-02-27 09:34:46,367 [TestNG-test=Test-1] INFO USH_AgentStore - Entering the URL
+2022-02-27 09:34:47,917 [TestNG-test=Test-1] INFO USH_AgentStore - Window is maximized
+2022-02-27 09:34:48,086 [TestNG-test=Test-1] INFO USH_AgentStore - Getting the Window Handle of Login Screen
+2022-02-27 09:34:48,098 [TestNG-test=Test-1] INFO USH_AgentStore - Login Window handle is CDwindow-10A2089F76FB6D5F9825D01B81FE78B8
+2022-02-27 09:34:48,146 [TestNG-test=Test-1] INFO USH_AgentStore - Explicit Waiting based on the visibility of webelement....
+2022-02-27 09:34:48,261 [TestNG-test=Test-1] INFO USH_AgentStore - Entering username..
+2022-02-27 09:34:48,385 [TestNG-test=Test-1] INFO USH_AgentStore - Clicking on Login button
+2022-02-27 09:34:48,462 [main] INFO USH_AgentStore - Quitting the browser
+2022-02-27 09:43:13,585 [TestNG-test=Test-1] INFO USH_AgentStore - Setting up the Chrome driver
+2022-02-27 09:43:15,560 [TestNG-test=Test-1] INFO USH_AgentStore - Entering the URL
+2022-02-27 09:43:17,263 [TestNG-test=Test-1] INFO USH_AgentStore - Window is maximized
+2022-02-27 09:43:17,411 [TestNG-test=Test-1] INFO USH_AgentStore - Getting the Window Handle of Login Screen
+2022-02-27 09:43:17,426 [TestNG-test=Test-1] INFO USH_AgentStore - Login Window handle is CDwindow-6E55F81D60FE48C358DEBBFAEDE66629
+2022-02-27 09:43:17,507 [TestNG-test=Test-1] INFO USH_AgentStore - Explicit Waiting based on the visibility of webelement....
+2022-02-27 09:43:17,594 [TestNG-test=Test-1] INFO USH_AgentStore - Entering username..
+2022-02-27 09:43:17,724 [TestNG-test=Test-1] INFO USH_AgentStore - Clicking on Login button
+2022-02-27 09:43:17,811 [main] INFO USH_AgentStore - Quitting the browser
+2022-02-27 09:57:33,443 [TestNG-test=Test-1] INFO USH_AgentStore - Setting up the Chrome driver
+2022-02-27 09:57:35,514 [TestNG-test=Test-1] INFO USH_AgentStore - Entering the URL
+2022-02-27 09:57:37,167 [TestNG-test=Test-1] INFO USH_AgentStore - Window is maximized
+2022-02-27 09:57:37,313 [TestNG-test=Test-1] INFO USH_AgentStore - Getting the Window Handle of Login Screen
+2022-02-27 09:57:37,324 [TestNG-test=Test-1] INFO USH_AgentStore - Login Window handle is CDwindow-8ED56D26893556087814DA857968C22D
+2022-02-27 09:57:37,365 [TestNG-test=Test-1] INFO USH_AgentStore - Explicit Waiting based on the visibility of webelement....
+2022-02-27 09:57:37,472 [TestNG-test=Test-1] INFO USH_AgentStore - Entering username..
+2022-02-27 09:57:37,644 [TestNG-test=Test-1] INFO USH_AgentStore - Clicking on Login button
+2022-02-27 09:57:37,744 [main] INFO USH_AgentStore - Quitting the browser
