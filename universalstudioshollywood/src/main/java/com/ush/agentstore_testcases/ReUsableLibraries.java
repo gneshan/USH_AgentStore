@@ -1,11 +1,14 @@
 package com.ush.agentstore_testcases;
 
+import java.io.File;
 import java.time.Duration;
 import java.util.function.Function;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
 import org.openqa.selenium.Proxy;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -57,9 +60,6 @@ public class ReUsableLibraries {
 	//		}
 	//		return instance;
 	//	}
-
-
-
 
 	public Logger WriteLog() {		
 		logger = Logger.getLogger("USH_AgentStore");
@@ -258,6 +258,17 @@ public class ReUsableLibraries {
 	public void tearDown() {
 		WriteLog().info("Quitting the browser");
 		driver.quit();
+	}
+	
+	
+	public void getScreebshot(WebDriver driver, String imagePath) {
+		TakesScreenshot scr= (TakesScreenshot) driver;
+		File source=scr.getScreenshotAs(OutputType.FILE);
+		
+		
+		
+		
+		
 	}
 
 
